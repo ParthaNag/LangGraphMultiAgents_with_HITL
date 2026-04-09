@@ -1,0 +1,6 @@
+[server]
+fileWatcherType = "poll"
+folderWatchBlacklist = ["torch"]
+
+[logger]
+level = "error"
